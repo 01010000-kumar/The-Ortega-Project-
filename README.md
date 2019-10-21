@@ -18,15 +18,15 @@ YouTube videos like "Make Jarvis with Python", "Turn Your Computer into Jarvis",
 
 
 Things you can do:
-`	* *Ask about the Weather.*
-	* *Find Meanings.*
-	* *Request a Physics/Chem/Math/Non-Math Joke (you have been warned).*
-	* *Solve Calculus.*
-	* *Search Wikipedia (with the commands wiki/wikipedia/wichishiki).*
-	* *Ask Chemistry Questions.*
-	* *Solve Math.*
-	* *Search for Easter Eggs.* ;)
-  	*Find Lyrics of songs* `
+`	*Ask about the Weather.*
+	*Find Meanings.*
+	*Request a Physics/Chem/Math/Non-Math Joke (you have been warned).*
+	*Solve Calculus.*
+	*Search Wikipedia (with the commands wiki/wikipedia/wichishiki).*
+	*Ask Chemistry Questions.*
+	*Solve Math.*
+  	*Find Lyrics of songs*
+	*Search for Easter Eggs.* ;) `
 
 Happy Learning!
 
