@@ -9,10 +9,10 @@ YouTube videos like "Make Jarvis with Python", "Turn Your Computer into Jarvis",
 
 
 
-****To Run this Tool:
-		1. Make sure you have Python Version 3.6 installed.
-		2. Go to "The Ortega Project" Folder and Run "Setup.bat" to install all the requirements.
-		3. Run the "Ortega" File in the "The Ortega Project" Folder.****
+**To Run this Tool:
+		(1). Make sure you have Python Version 3.6 installed.
+		(2). Go to "The Ortega Project" Folder and Run "Setup.bat" to install all the requirements.
+		(3). Run the "Ortega" File in the "The Ortega Project" Folder.**
 
 **Note: This tool will Only run on Windows Machines.**
 
