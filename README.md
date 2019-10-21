@@ -18,7 +18,7 @@ YouTube videos like "Make Jarvis with Python", "Turn Your Computer into Jarvis",
 
 
 Things you can do:
-	* *Ask about the Weather.*
+`	* *Ask about the Weather.*
 	* *Find Meanings.*
 	* *Request a Physics/Chem/Math/Non-Math Joke (you have been warned).*
 	* *Solve Calculus.*
@@ -26,7 +26,8 @@ Things you can do:
 	* *Ask Chemistry Questions.*
 	* *Solve Math.*
 	* *Search for Easter Eggs.* ;)
-  * *Find Lyrics of songs*
+  	*Find Lyrics of songs* `
+
 Happy Learning!
 
 ^_^
