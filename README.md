@@ -25,7 +25,7 @@ Things you can do:
 	*Search Wikipedia (with the commands wiki/wikipedia/wichishiki).*
 	*Ask Chemistry Questions.*
 	*Solve Math.*
-  	*Find Lyrics of songs*
+  	*Find Lyrics of songs.*
 	*Search for Easter Eggs.* ;) `
 
 Happy Learning!
