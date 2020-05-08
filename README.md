@@ -29,7 +29,7 @@ Things you can do:
 *	*Ask Chemistry Questions.*
 *	*Solve Math.*
 * 	*Find Lyrics of songs.*
-*	*Search for Easter Eggs. ;) 
+*	*Search for Easter Eggs.* ;) 
 
 Happy Learning!
 
