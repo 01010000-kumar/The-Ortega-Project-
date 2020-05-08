@@ -1,4 +1,4 @@
-# The-Ortega-Project-
+# The-Ortega-Project
 
 A virtual assistant made in Python.
 
